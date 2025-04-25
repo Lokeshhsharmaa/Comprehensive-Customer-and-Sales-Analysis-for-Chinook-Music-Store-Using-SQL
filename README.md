@@ -1,0 +1,2 @@
+# Comprehensive-Customer-and-Sales-Analysis-for-Chinook-Music-Store-Using-SQL
+This project analyzes the Chinook music store database using SQL to uncover insights on customer behavior, sales trends, and genre performance. It involves data cleaning, revenue analysis, customer segmentation, and churn prediction. The goal is to support strategic decisions in marketing, retention, and promotion through data-driven insights.
